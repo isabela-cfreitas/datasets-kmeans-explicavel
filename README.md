@@ -10,3 +10,7 @@ Links de cada dataset:
 - [Mice Protein Expression (mice_onehot)](https://archive.ics.uci.edu/dataset/342/mice+protein+expression)
 - [Poker Hand (poker)](https://archive.ics.uci.edu/dataset/158/poker+hand)
 - [Dataset for Sensorless Drive Diagnosis (Sensorless)](https://archive.ics.uci.edu/dataset/325/dataset+for+sensorless+drive+diagnosis)
+- [20 Newsgroups](http://qwone.com/~jason/20Newsgroups/)
+- [The CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
+- [Letter Recognition](https://archive.ics.uci.edu/dataset/59/letter+recognition)
+- [Pen-Based Recognition of Handwritten Digits](https://archive.ics.uci.edu/dataset/81/pen+based+recognition+of+handwritten+digits)
