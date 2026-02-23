@@ -1,12 +1,12 @@
 Links de cada dataset:
-Optical Recognition of Handwritten Digits (Digits): https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits
-Vowel: [https://www.openml.org/search?type=data&sort=runs&id=58&status=active](https://www.openml.org/search?type=data&sort=runs&id=58&status=active)
-Covertype (covertype-normalized): https://www.openml.org/search?type=data&status=active&id=150
-BNG(segment) (BNG_onehot): https://www.openml.org/search?type=data&status=active&id=40519
-Anuran Calls (MFCCs)(Frogs_MFCCs): https://archive.ics.uci.edu/dataset/406/anuran+calls+mfccs
-Avila (avila-completo): https://archive.ics.uci.edu/dataset/459/avila
-Collins (collins_onehot): https://www.openml.org/search?type=data&status=active&id=40971
-Iris: https://archive.ics.uci.edu/dataset/53/iris
-Mice Protein Expression (mice_onehot): https://archive.ics.uci.edu/dataset/342/mice+protein+expression
-Poker Hand(poker): https://archive.ics.uci.edu/dataset/158/poker+hand
-Dataset for Sensorless Drive Diagnosis (Sensorless): https://archive.ics.uci.edu/dataset/325/dataset+for+sensorless+drive+diagnosis
+- [Optical Recognition of Handwritten Digits (Digits)](https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits)
+- [Vowel](https://www.openml.org/search?type=data&sort=runs&id=58&status=active)
+- [Covertype (covertype-normalized)](https://www.openml.org/search?type=data&status=active&id=150)
+- [BNG(segment) (BNG_onehot)](https://www.openml.org/search?type=data&status=active&id=40519)
+- [Anuran Calls (MFCCs) (Frogs_MFCCs)](https://archive.ics.uci.edu/dataset/406/anuran+calls+mfccs)
+- [Avila (avila-completo)](https://archive.ics.uci.edu/dataset/459/avila)
+- [Collins (collins_onehot)](https://www.openml.org/search?type=data&status=active&id=40971)
+- [Iris](https://archive.ics.uci.edu/dataset/53/iris)
+- [Mice Protein Expression (mice_onehot)](https://archive.ics.uci.edu/dataset/342/mice+protein+expression)
+- [Poker Hand (poker)](https://archive.ics.uci.edu/dataset/158/poker+hand)
+- [Dataset for Sensorless Drive Diagnosis (Sensorless)](https://archive.ics.uci.edu/dataset/325/dataset+for+sensorless+drive+diagnosis)
